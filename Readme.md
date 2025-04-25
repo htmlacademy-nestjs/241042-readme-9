@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Рамиль Зарипов](https://up.htmlacademy.ru/nodejs-2/9/user/241042).
-* Наставник: `Неизвестно`.
+* Наставник: [Илиас Эззахид](https://htmlacademy.ru/profile/id2588943).
 
 ---
 
